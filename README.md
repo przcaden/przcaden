@@ -7,10 +7,12 @@
 ### Highlighted Repositories
 - Capstone project (soon)<br>
 Portable game console project using Raspberry Pi components and custom-built games in Python.<br>
-- [16-Bit CPU](https://github.com/przcaden/16-Bit-CPU)<br>
-A VHDL model of a 16-bit Harvard CPU with a standalone instruction set.<br>
+- [ghostKey](https://github.com/przcaden/ghostKey)
+A password-stealing Linux kernel module used for ethical hacking.
 - [AI Grabber Tank](https://github.com/przcaden/Grabber-Tank-AI)<br>
 A robotics AI project utilizing Raspberry Pi and Python.<br>
+- [16-Bit CPU](https://github.com/przcaden/16-Bit-CPU)<br>
+A VHDL model of a 16-bit Harvard CPU with a standalone instruction set.<br>
 
 ### Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=przcaden&show_icons=true&theme=transparent)<br>
