@@ -6,9 +6,9 @@
 
 ### Highlighted Repositories
 - Capstone project (soon)<br>
-Portable game console project using Raspberry Pi components and custom-built games in Python.<br>
+Portable video game console project using Raspberry Pi components and custom-built games in Python.<br>
 - [ghostKey](https://github.com/przcaden/ghostKey)<br>
-A password-stealing Linux kernel module used for ethical hacking.<br>
+A password-stealing Linux kernel module used for ethical hacking.<br>Presented at the 2022 International Conference on Computer Communications and Networks (ICCCN).<br>
 - [AI Grabber Tank](https://github.com/przcaden/Grabber-Tank-AI)<br>
 A robotics AI project utilizing Raspberry Pi and Python.<br>
 - [16-Bit CPU](https://github.com/przcaden/16-Bit-CPU)<br>
