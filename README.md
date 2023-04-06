@@ -16,4 +16,4 @@ A VHDL model of a 16-bit Harvard CPU with a standalone instruction set.<br>
 
 ### Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=przcaden&show_icons=true&theme=transparent)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=przcaden&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=przcaden&hide=html,stata)](https://github.com/anuraghazra/github-readme-stats)
