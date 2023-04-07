@@ -13,7 +13,7 @@ A password-stealing Linux kernel module used for ethical hacking.<br>Presented a
 A robotics AI project utilizing Raspberry Pi and Python.<br>
 - [16-Bit CPU](https://github.com/przcaden/16-Bit-CPU)<br>
 A VHDL model of a 16-bit Harvard CPU with a standalone instruction set.<br>
-- [Embedded Vault](https://github.com/przcaden/Arduino-Vault)
+- [Embedded Vault](https://github.com/przcaden/Arduino-Vault)<br>
 A vault mechanism programmed in Arduino with a 3D printed enclosure.
 
 ### Stats
