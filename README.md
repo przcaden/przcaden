@@ -5,7 +5,7 @@
 🔈⠀Self-starter and great communicator<br>
 
 ### Highlighted Repositories
-- Capstone project (soon)<br>
+- [Capstone project](https://drive.google.com/file/d/1a4EtMjtkjxMZdKACuUjvqVFuf7NYN391/view?usp=sharing) (soon)<br>
 Portable video game console project using Raspberry Pi components and custom-built games in Python.<br>
 - [ghostKey](https://github.com/przcaden/ghostKey)<br>
 A password-stealing Linux kernel module used for ethical hacking.<br>Presented at the 2022 International Conference on Computer Communications and Networks (ICCCN).<br>
