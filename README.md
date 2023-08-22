@@ -1,5 +1,5 @@
 ### Bio
-📚 Recent graduate from North Central College<br>
+📚 Graduate from North Central College<br>
 📊 Interested in hardware, firmware, and embedded software development<br>
 💻 Primarily codes in embedded C/C++, Python<br>
 🔈⠀Self-starter and great communicator<br>
