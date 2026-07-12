@@ -1,11 +1,13 @@
+## Hi, I'm Caden 👋
+
 ### Bio
 📚 Graduate from North Central College<br>
 📊 Interested in hardware, firmware, and embedded software development<br>
 💻 Primarily codes in embedded C/C++, Python<br>
-🔈⠀Self-starter and great communicator<br>
+🔈⠀Self-starter and ambitious programmer<br>
 
-### Highlighted Repositories
-- [Capstone project](https://drive.google.com/file/d/1a4EtMjtkjxMZdKACuUjvqVFuf7NYN391/view?usp=sharing) (soon)<br>
+### Highlighted Projects
+- [Capstone project](https://drive.google.com/file/d/1a4EtMjtkjxMZdKACuUjvqVFuf7NYN391/view?usp=sharing)<br>
 Portable video game console project using Raspberry Pi components and custom-built games in Python.<br>
 - [ghostKey](https://github.com/przcaden/ghostKey)<br>
 A password-stealing Linux kernel module used for ethical hacking.<br>Presented at the 2022 International Conference on Computer Communications and Networks (ICCCN).<br>
