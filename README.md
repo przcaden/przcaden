@@ -5,7 +5,7 @@
 📚 Graduate from North Central College (2022)<br>
 📊 Interested in hardware, firmware, and anything embedded<br>
 💻 I primarily code in embedded C/C++ and Python<br>
-🔈⠀Self-starter and ambitious programmer<br>
+🔈Self-starter and ambitious programmer<br>
 
 ### Highlighted Projects
 - [Capstone project](https://drive.google.com/file/d/1a4EtMjtkjxMZdKACuUjvqVFuf7NYN391/view?usp=sharing)<br>
