@@ -18,7 +18,3 @@ A robotics AI project utilizing Raspberry Pi and Python.<br>
 A VHDL model of a 16-bit Harvard CPU with a standalone instruction set.<br>
 - [Embedded Vault](https://github.com/przcaden/Arduino-Vault)<br>
 A vault mechanism programmed in Arduino with a 3D printed enclosure.
-
-### Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=przcaden&show_icons=true&theme=transparent)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=przcaden&hide=html,stata)](https://github.com/anuraghazra/github-readme-stats)
