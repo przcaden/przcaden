@@ -1,8 +1,8 @@
 ## Hi, I'm Caden 👋
 
 ### Bio
-⚙️ I currently work at Motorola Solutions as an Embedded Firmware engineer<br>
-📚 Graduate from North Central College (2022)<br>
+⚙️ I currently work at Medela as an Embedded Software Engineer<br>
+📚 North Central College Alumni (2022)<br>
 📊 Interested in hardware, firmware, and anything embedded<br>
 💻 I primarily code in embedded C/C++ and Python<br>
 🔈Self-starter and ambitious programmer<br>
